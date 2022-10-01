@@ -2,3 +2,4 @@
 ## 1. Hello world
 ## 2. Good day greeting
 ## 3. Hot weather acknowldegement
+## 4. Availability enquiry
